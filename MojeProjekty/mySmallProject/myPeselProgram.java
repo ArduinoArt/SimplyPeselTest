@@ -80,7 +80,7 @@ public class myPeselProgram extends JFrame implements createJMenuItem{
 		
 		jTextArea.setBounds(10, 10, 759, 255);
 		getContentPane().add(jTextArea);
-		
+		//test po commicie
 		pesel = new JTextField();
 		pesel.setBounds(143, 278, 209, 22);
 		getContentPane().add(pesel);
